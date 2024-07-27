@@ -1,0 +1,1 @@
+SELECT * FROM practical_4.students WHERE email IS NULL

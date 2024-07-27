@@ -1,0 +1,11 @@
+position_id,position_name,position_type,hospital_details
+1,"Office Assistant",Temporary,1
+2,Gastroeneterologist,Permanent,15
+3,"Consulting Robotic Surgeon",Permanent,23
+4,"General Services Manager",Pernament,14
+5,"Risk Manager",Permanent,23
+6,"IT Services Technician",Temporary,14
+7,"Paedeatric Anaestesiologist",Permanent,3
+8,"Paedeatric Orthopaedic Surgeon",Permanent,3
+9,"IT Support",Temporary,3
+10,"Consultant Teaching Surgeon (General)",Permanent,3

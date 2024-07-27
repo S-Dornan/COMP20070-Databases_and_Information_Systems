@@ -1,0 +1,1 @@
+SELECT firstname FROM practical_4.students WHERE lastname = "Murphy";

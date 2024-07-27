@@ -1,0 +1,1 @@
+SELECT coursecode, coursename FROM practical_4.courses WHERE coursecost < 250;

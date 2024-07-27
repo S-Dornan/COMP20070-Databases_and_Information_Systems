@@ -1,0 +1,1 @@
+SELECT firstname, lastname FROM practical_4.students;

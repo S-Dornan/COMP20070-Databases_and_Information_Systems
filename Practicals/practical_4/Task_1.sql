@@ -1,0 +1,1 @@
+SELECT studentid FROM practical_4.student_taking_course WHERE coursecode = "WEB20";

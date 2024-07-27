@@ -1,0 +1,1 @@
+SELECT * FROM practical_4.student_taking_course WHERE studentid = "11111";
